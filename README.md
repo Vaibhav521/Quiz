@@ -1,5 +1,5 @@
 # Quiz App
-This project was created during my second week of learning Express.js ,this application allows users to create and take quizzes, earn points based on difficulty, and level up after completing quizzes. It features user authentication with JWT, quiz history to prevent spamming, and real-time notifications using Socket.IO.
+ application allows users to create and take quizzes, earn points based on difficulty, and level up after completing quizzes. It features user authentication with JWT, quiz history to prevent spamming, and real-time notifications using Socket.IO.
 
 ## Table of Contents
 
